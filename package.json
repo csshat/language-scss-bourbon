@@ -54,10 +54,6 @@
         "hsl"
       ],
       "default": "hex"
-    },
-    "saveMode": {
-      "type": "boolean",
-      "default": false
     }
   },
   "bundledDependencies": [
