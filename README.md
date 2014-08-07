@@ -1,4 +1,4 @@
-language-less
-=============
+language-scss-bourbon
+=====================
 
-Less language
+Sass language
