@@ -1,7 +1,7 @@
 {
   "name": "csshat-language-scss-bourbon",
   "title": "SCSS (bourbon)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sass language",
   "main": "dust.js",
   "scope": "source.scss",
